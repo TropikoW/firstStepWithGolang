@@ -136,7 +136,7 @@ License
 </br>
 
 <span>
-This repository is licensed under the <a href="">MIT License</a>.
+This repository is licensed under the <a href="https://github.com/TropikoW/firstStepWithGolang/blob/master/LICENSE.MD">MIT License</a>.
 </span>
 
 </br>
